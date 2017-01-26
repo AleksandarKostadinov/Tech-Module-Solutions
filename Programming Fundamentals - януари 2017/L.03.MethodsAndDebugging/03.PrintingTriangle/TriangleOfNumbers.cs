@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _03.PrintingTriangle
 {
-    class Program
+    class TriangleOfNumbers
     {
         static void Main(string[] args)
         {
