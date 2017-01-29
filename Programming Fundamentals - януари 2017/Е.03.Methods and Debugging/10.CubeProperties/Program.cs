@@ -37,22 +37,22 @@ namespace _10.CubeProperties
             }
         }
 
-        private static double GetCubeArea(double side)
+        public static double GetCubeArea(double side)
         {
             return side * side * 6;
         }
 
-        private static double GetCubeVolume(double side)
+        public static double GetCubeVolume(double side)
         {
             return side * side * side;
         }
 
-        private static double GetSpaceDiagonal(double side)
+        public static double GetSpaceDiagonal(double side)
         {
             return Math.Sqrt(side * side + side * side + side * side);
         }
 
-        private static double GetFaceDiagonal(double side)
+        public static double GetFaceDiagonal(double side)
         {
             return Math.Sqrt(side * side + side * side);
         }

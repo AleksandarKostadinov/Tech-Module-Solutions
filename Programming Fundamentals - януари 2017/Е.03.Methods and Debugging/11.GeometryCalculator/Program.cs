@@ -47,22 +47,22 @@ namespace _11.GeometryCalculator
             }
         }
 
-        private static double GetCircleAria(double rarius)
+        public static double GetCircleAria(double rarius)
         {
             return rarius * rarius * Math.PI;
         }
 
-        private static double GetRectangleAria(double width, double height)
+        public static double GetRectangleAria(double width, double height)
         {
             return width * height;
         }
 
-        private static double GetSquareAria(double side)
+        public static double GetSquareAria(double side)
         {
             return GetRectangleAria(side, side);
         }
 
-        private static double GetTriangleAria(double side, double height)
+        public static double GetTriangleAria(double side, double height)
         {
             return GetRectangleAria(side, height) / 2;
         }
