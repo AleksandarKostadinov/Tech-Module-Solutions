@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReverseArrayOfStrings", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SumArrays", "07.SumArrays\07.SumArrays.csproj", "{44A877CE-0D54-4AD9-90FB-CC94A62234A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CondenseArrayToNumber", "08.CondenseArrayToNumber\08.CondenseArrayToNumber.csproj", "{26681BC8-9C2B-417B-92A8-2BCD8FD7A6A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.ExtractMiddleElements", "09.ExtractMiddleElements\09.ExtractMiddleElements.csproj", "{CFA581B7-9FF4-40F2-B8A3-3D9A17CB779F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{44A877CE-0D54-4AD9-90FB-CC94A62234A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44A877CE-0D54-4AD9-90FB-CC94A62234A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44A877CE-0D54-4AD9-90FB-CC94A62234A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26681BC8-9C2B-417B-92A8-2BCD8FD7A6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26681BC8-9C2B-417B-92A8-2BCD8FD7A6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26681BC8-9C2B-417B-92A8-2BCD8FD7A6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26681BC8-9C2B-417B-92A8-2BCD8FD7A6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA581B7-9FF4-40F2-B8A3-3D9A17CB779F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA581B7-9FF4-40F2-B8A3-3D9A17CB779F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA581B7-9FF4-40F2-B8A3-3D9A17CB779F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA581B7-9FF4-40F2-B8A3-3D9A17CB779F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
