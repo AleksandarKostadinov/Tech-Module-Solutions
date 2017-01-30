@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DayOfWeek", "01.DayOfWee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReverseArrayOfIntegers", "02.ReverseArrayOfIntegers\02.ReverseArrayOfIntegers.csproj", "{C5DE42A6-A0E8-40DD-8EB5-18CE3461D7E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LastKNumbersSums", "03.LastKNumbersSums\03.LastKNumbersSums.csproj", "{86FA89FE-1F7D-4FCF-A8CE-E8260E1D6CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TripplesSum", "04.TripplesSum\04.TripplesSum.csproj", "{363F84BB-8AAA-4017-905B-F15F8783222F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C5DE42A6-A0E8-40DD-8EB5-18CE3461D7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5DE42A6-A0E8-40DD-8EB5-18CE3461D7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5DE42A6-A0E8-40DD-8EB5-18CE3461D7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FA89FE-1F7D-4FCF-A8CE-E8260E1D6CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FA89FE-1F7D-4FCF-A8CE-E8260E1D6CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FA89FE-1F7D-4FCF-A8CE-E8260E1D6CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FA89FE-1F7D-4FCF-A8CE-E8260E1D6CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363F84BB-8AAA-4017-905B-F15F8783222F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363F84BB-8AAA-4017-905B-F15F8783222F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363F84BB-8AAA-4017-905B-F15F8783222F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363F84BB-8AAA-4017-905B-F15F8783222F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
