@@ -10,14 +10,11 @@
             return reversedStr;
         }
 
-        public static int GetSumListInt(List<int> numbers)
+        public static List<decimal> ReadListOfNumbers()
         {
-            int sum = 0;
+            List<decimal> numbers = Console.ReadLine().Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(decimal.Parse)
+                .ToList();
 
-            for (int i = 0; i < numbers.Count; i++)
-            {
-                sum += numbers[i];
-            }
-
-            return sum;
+            return numbers;
         }
