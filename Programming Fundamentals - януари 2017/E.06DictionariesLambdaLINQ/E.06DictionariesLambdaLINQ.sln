@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PhonebookUpgrade", "02.P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03AMinerTask", "03AMinerTask\03AMinerTask.csproj", "{29A30641-F5C2-4F94-BB32-CA2EA3C6EAF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.HandsOfCards", "05.HandsOfCards\05.HandsOfCards.csproj", "{14555649-E8B2-4A04-890B-924139D42322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FixEmails", "04.FixEmails\04.FixEmails.csproj", "{568E2876-36BF-4F7D-8A95-5768E5E2EE69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{29A30641-F5C2-4F94-BB32-CA2EA3C6EAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29A30641-F5C2-4F94-BB32-CA2EA3C6EAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29A30641-F5C2-4F94-BB32-CA2EA3C6EAF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14555649-E8B2-4A04-890B-924139D42322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14555649-E8B2-4A04-890B-924139D42322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14555649-E8B2-4A04-890B-924139D42322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14555649-E8B2-4A04-890B-924139D42322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568E2876-36BF-4F7D-8A95-5768E5E2EE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568E2876-36BF-4F7D-8A95-5768E5E2EE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568E2876-36BF-4F7D-8A95-5768E5E2EE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568E2876-36BF-4F7D-8A95-5768E5E2EE69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
