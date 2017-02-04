@@ -27,10 +27,6 @@
 
             foreach (var pair in resourceQuantity)
             {
-                if (resourceQuantity.Count > 0)
-                {
-
-                }
                 Console.WriteLine($"{pair.Key} -> {pair.Value}");
             }
         }
