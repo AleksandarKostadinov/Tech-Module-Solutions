@@ -10,12 +10,12 @@
             Point firstPoint = ReadPoint();
             Point secondPoint = ReadPoint();
 
-            double distance = CalDistance(firstPoint, secondPoint);
+            double distance = CalcDistance(firstPoint, secondPoint);
 
             Console.WriteLine($"{distance:f3}");
         }
 
-        public static double CalDistance(Point p1, Point p2)
+        public static double CalcDistance(Point p1, Point p2)
         {
             double distance =  Math.Sqrt(Math.Pow(p2.X - p1.X, 2) + Math.Pow(p2.Y - p1.Y, 2));
             
