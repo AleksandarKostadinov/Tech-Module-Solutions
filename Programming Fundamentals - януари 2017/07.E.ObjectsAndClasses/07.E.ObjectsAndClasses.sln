@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountWorkDays", "01.CountWorkDays\01.CountWorkDays.csproj", "{0CEAE881-CF8F-46C3-AB40-E826E4FA7B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AdvertisementMessage", "02.AdvertisementMessage\02.AdvertisementMessage.csproj", "{A7DEBFA6-4FE5-4F58-AB50-DC821AAD3E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CEAE881-CF8F-46C3-AB40-E826E4FA7B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEAE881-CF8F-46C3-AB40-E826E4FA7B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEAE881-CF8F-46C3-AB40-E826E4FA7B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CEAE881-CF8F-46C3-AB40-E826E4FA7B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7DEBFA6-4FE5-4F58-AB50-DC821AAD3E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DEBFA6-4FE5-4F58-AB50-DC821AAD3E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DEBFA6-4FE5-4F58-AB50-DC821AAD3E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DEBFA6-4FE5-4F58-AB50-DC821AAD3E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
